@@ -2,11 +2,13 @@
   "name": "frontend-intro",
   "version": "0.1.0",
   "description": "frontend introductory project",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
+    "build": "gulp",
     "test": "karma start karma.conf.js",
-    "preinstall": "gulp --version && bower --version && karma --version && echo done preinstall || npm install -g gulp bower karma-cli"
+    "preinstall": "gulp --version && bower --version && karma --version && echo done preinstall || npm install -g gulp bower karma-cli",
+    "postinstall": "bower install"
   },
   "repository": {
     "type": "git",

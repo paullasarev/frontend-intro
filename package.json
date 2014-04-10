@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "test": "karma start karma.conf.js",
-    "preinstall": "grunt --version && bower --version && karma --version && echo done preinstall || npm install -g grunt-cli bower karma-cli"
+    "preinstall": "gulp --version && bower --version && karma --version && echo done preinstall || npm install -g gulp bower karma-cli"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,7 @@
   "devDependencies": {
     "karma": "^0.12.1",
     "karma-jasmine": "^0.1.5",
-    "karma-chrome-launcher": "^0.1.2"
+    "karma-chrome-launcher": "^0.1.2",
+    "gulp": "^3.6.0"
   }
 }

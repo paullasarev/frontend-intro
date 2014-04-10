@@ -1,0 +1,9 @@
+{
+	"_id": {
+		"$oid": 1
+	},
+	"firstName": "Максим",
+	"lastName": "Городилов",
+	"title": "Software Engineer",
+	"primarySkill": "Java"
+}

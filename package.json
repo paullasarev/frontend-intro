@@ -1,0 +1,27 @@
+{
+  "name": "frontend-intro",
+  "version": "0.1.0",
+  "description": "frontend introductory project",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js",
+    "preinstall": "grunt --version && bower --version && karma --version && echo done preinstall || npm install -g grunt-cli bower karma-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paullasarev/frontend-intro.git"
+  },
+  "keywords": [
+    "frontend",
+    "angular"
+  ],
+  "author": "paullasarev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paullasarev/frontend-intro/issues"
+  },
+  "homepage": "https://github.com/paullasarev/frontend-intro",
+  "dependencies": {
+    "express": "^4.0.0"
+  }
+}

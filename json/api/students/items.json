@@ -1,0 +1,20 @@
+[
+	{
+		"_id": {
+			"$oid": 1
+		},
+		"firstName": "Максим",
+		"lastName": "Городилов",
+		"title": "Software Engineer",
+		"primarySkill": "Java"
+	},
+	{
+		"_id": {
+			"$oid": 2
+		},
+		"firstName": "Дмитрий",
+		"lastName": "Лютиков",
+		"title": "Software Engineering Team Leader",
+		"primarySkill": "Java"
+	}
+]

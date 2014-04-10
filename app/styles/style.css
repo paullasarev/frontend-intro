@@ -1,0 +1,25 @@
+a {
+	cursor: pointer;
+}
+
+.global-wrapper {
+	width: 600px;
+}
+
+.margin-centered {
+	margin: 0 auto;
+}
+
+.row {
+	margin-top: 10px;
+}
+
+.relative {
+	position: relative;
+}
+
+.global-wrapper,
+.table,
+a {
+	font-size: 14px !important;
+}

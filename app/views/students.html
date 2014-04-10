@@ -1,0 +1,32 @@
+<div class="row">
+	<div class="pull-left">
+		<input type="text" class="form-control" ng-model="searchFilter"> 
+	</div>
+	<div class="pull-right">
+		<a href="#/students/create" class="btn btn-primary">Новый студент</a>
+	</div>
+</div>
+<div class="row">
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Фамилия</th>
+				<th>Имя</th>
+				<th>Тайтл</th>
+				<th>Праймари скилл</th>
+				<th></th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="student in students | filter: searchFilter">
+				<td>{{student.lastName}}</td>
+				<td>{{student.firstName}}</td>
+				<td>{{student.title}}</td>
+				<td><span class="label label-primary">{{student.primarySkill}}</span></td>
+				<td><a href="#/students/{{student._id.$oid}}">Редактировать</a></td>
+				<td><a ng-click="removeStudent(student._id.$oid, $index);">Удалить</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

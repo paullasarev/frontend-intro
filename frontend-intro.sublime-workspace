@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"wi",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git: sta",
+				"Git: Status"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ser",
+				"Package Control: Discover Packages"
+			],
+			[
+				"contol:",
+				"Package Control: Install Package"
+			],
+			[
+				"control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 269.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/js/mediano/bower.json",
+		"/D/js/mediano/package.json",
+		"/D/js/frontend-intro/json/api/students/1.json",
+		"/D/js/frontend-intro/README.md",
+		"/D/js/mediano/Gruntfile.js",
+		"/D/js/mediano/app/css/bootstrap.less",
+		"/D/js/mediano/app/index.html",
+		"/D/js/mediano/app/partials/view.html",
+		"/D/js/mediano/app/css/app.less",
+		"/D/js/mediano/app/partials/edit.html",
+		"/D/js/mediano/app/js/app.js",
+		"/D/js/mediano/lib/expanding.js",
+		"/D/js/mediano/README.md",
+		"/D/js/mediano/sublime.sublime-project",
+		"/D/js/mediano/bower_components/angular-sanitize/angular-sanitize.js",
+		"/D/js/mediano/public/js/app.js",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/User/SideBarGit.sublime-settings",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/D/js/mediano/npm-debug.log",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/vmware/vscsi_filter/active_disk/test/device_test.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/service/test/process_data_control.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/service/test/virtual_machine.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/service/test/virtual_host.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/service/impl/persistent_processes_service.h",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/service/impl/persistent_processes_service.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/include/disk.h",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/User/acronis.sublime-build",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/hypervisor_agent/test/disk_data.cpp",
+		"/D/cpp/acronis/velight/abr_cont/test_nodep.sublime-build",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/hypervisor_agent/test/replica_disk_client.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/hypervisor_agent/test/range_queue.cpp",
+		"/D/cpp/acronis/velight/abr_cont/enterprise/migration/continuous_replication/hypervisor_agent/test/round_buffer.cpp",
+		"/C/Users/pavel_lasarev@epam.com/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/gtob/common/proxy_root_resolver.cpp",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/manager/impl/archive_support.cpp",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/include/convert.h",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/include/group_restore.h",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/manager/impl/disks_support.h",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/manager/impl/archive_support.h",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/gtob/common/proxy_root_resolver.h",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/gtob/common/descript.ion",
+		"/D/cpp/acronis/velight/abr_slr/enterprise/migration/include/os_type_tools.h",
+		"/D/cpp/acronis/velight/abr_slr/file/backup.cpp",
+		"/D/cpp/acronis/velight/abr_slr/file/backup_helpers.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"files",
+			"'ngSanitize'",
+			"sanitize",
+			"ngsanitize",
+			"padding-base-vertical",
+			"input-height",
+			"input-h",
+			"height",
+			"all",
+			"myApp",
+			"tag",
+			"match",
+			"KeepAliveIntervalInMillisec",
+			"UpdateIntervalInMillisec",
+			"common",
+			"Common",
+			"ReplicationService",
+			"replicationService",
+			"ReplicationService",
+			"replicationService",
+			"ReplicationService",
+			"replicationService",
+			"ReplicationService",
+			"RunningProcessUpdate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "frontend-intro.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

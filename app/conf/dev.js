@@ -1,0 +1,1 @@
+Module.constant('isMockApi', true);

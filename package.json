@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "build": "gulp",
+    "prestart": "gulp",
     "test": "karma start karma.conf.js",
     "preinstall": "gulp --version && bower --version && karma --version && echo done preinstall || npm install -g gulp bower karma-cli",
     "postinstall": "bower install"

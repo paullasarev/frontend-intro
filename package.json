@@ -4,6 +4,7 @@
   "description": "frontend introductory project",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "karma start karma.conf.js",
     "preinstall": "grunt --version && bower --version && karma --version && echo done preinstall || npm install -g grunt-cli bower karma-cli"
   },

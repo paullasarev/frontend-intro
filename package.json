@@ -36,6 +36,10 @@
     "gulp-clean": "^0.2.4",
     "gulp-uglify": "^0.2.1",
     "gulp-concat": "^2.2.0",
-    "yargs": "^1.2.1"
+    "yargs": "^1.2.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-filter": "^0.4.0",
+    "gulp-footer": "^1.0.4",
+    "gulp-if": "0.0.5"
   }
 }

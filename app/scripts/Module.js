@@ -5,11 +5,11 @@ Module.config(['$routeProvider',
 
 		$routeProvider
 			.when('/students', {
-				templateUrl: 'app/views/students.html',
+				templateUrl: 'views/students.html',
 				controller: 'StudentsListController'
 			})
 			.when('/students/create', {
-				templateUrl: 'app/views/student.html',
+				templateUrl: 'views/student.html',
 				controller: 'StudentController',
 				resolve: {
 					mode: function() {
@@ -18,7 +18,7 @@ Module.config(['$routeProvider',
 				}
 			})
 			.when('/students/:id', {
-				templateUrl: 'app/views/student.html',
+				templateUrl: 'views/student.html',
 				controller: 'StudentController',
 				resolve: {
 					mode: function() {

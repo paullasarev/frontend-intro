@@ -32,6 +32,10 @@
     "karma": "^0.12.1",
     "karma-jasmine": "^0.1.5",
     "karma-chrome-launcher": "^0.1.2",
-    "gulp": "^3.6.0"
+    "gulp": "^3.6.0",
+    "gulp-clean": "^0.2.4",
+    "gulp-uglify": "^0.2.1",
+    "gulp-concat": "^2.2.0",
+    "yargs": "^1.2.1"
   }
 }

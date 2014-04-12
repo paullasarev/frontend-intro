@@ -2,7 +2,7 @@ Module.factory('StudentsService', ['$http', 'UrlFactory', 'apiKey',
 
 	function($http, UrlFactory, apiKey) {
 		var studentsApi = UrlFactory.getApiString('students');
-		return {
+		return {  
 
 			getStudents: function() {
 				return $http.get(studentsApi + UrlFactory.collectionPostfix, {params: {apiKey: apiKey}});
